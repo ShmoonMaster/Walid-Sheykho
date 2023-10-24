@@ -20,5 +20,5 @@ Resources Include:
 
 Main Page                  |  Calendar Page            | Maps Page                 |  Settings Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![alt text](https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2584.PNG?raw=true)  |  ![alt text](https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2585.PNG?raw=true) | ![alt text](https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2586.PNG?raw=true) | ![alt text](https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2587.PNG?raw=true)
+<img src="https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2584.PNG?raw=true" width=1145>  |  <img src="https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2585.PNG?raw=true" width=1000> | <img src="https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2586.PNG?raw=true" width=1130> | <img src="https://github.com/ShmoonMaster/Walid-Sheykho/blob/main/Uninav%20Media/IMG_2587.PNG?raw=true" width=1020>
 
